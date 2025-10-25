@@ -1,3 +1,3 @@
-FROM nginx:mainline-alpine3.21-slim
+FROM nginx:1.29.1-alpine-slim
 
 
