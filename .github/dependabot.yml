@@ -6,3 +6,5 @@ updates:
     schedule:
       interval: "daily"
     open-pull-requests-limit: 5
+
+# last-touch: 2025-10-25T12:20:46Z
